@@ -24,9 +24,3 @@ Conducted testing to verify the randomness and security of generated passwords.
 Challenges and Solutions:
 
 Challenge: Ensuring the generated passwords were both secure and user-friendly. Solution: Balanced security requirements with usability by providing customizable options and enforcing minimum password strength criteria.
-
-Achievements and Outcomes:
-
-Successfully launched the password generator with a user-friendly interface.
-
-Enhanced understanding of security best practices and randomization techniques.
