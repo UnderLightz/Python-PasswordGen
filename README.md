@@ -1,5 +1,4 @@
-# Project Title:
-Python Password Generator
+# Project Title: LockMaster
 
 ## Description:
 Tired of making your own passwords? Let this one progarm do it for you.
